@@ -1,0 +1,22 @@
+/* styles.css */
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 { 
+    color: purple;
+    text-align: center;
+    background-color: pink;
+}
+
+p {
+    font-size: larger;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}

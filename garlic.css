@@ -1,0 +1,12 @@
+/* style css */
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 { color: rgb(196, 165, 120);}
+
+img {
+    height: 500px;
+    width: auto;
+}
