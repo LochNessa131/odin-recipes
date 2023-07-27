@@ -1,14 +1,27 @@
 /* Avocado.css */
 
+body{
+    background-color: #e3b261;
+}
+
 h1 {
     color: green;
+    text-align: center;
 }
 
 img {
     height: 500px;
     width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 h3 {
-    color: #ee0305;
+    color: #c50306;
+}
+
+button{
+    background-color: #1d4adf69;
+    padding: 10px;
 }
