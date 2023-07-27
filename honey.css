@@ -2,13 +2,27 @@
 
 body {
     font-family: 'Times New Roman', Times, serif;
+    background-color: #e3b261;
 }
 
 h1 {
-    color: rgb(206, 112, 76);
+    color: rgb(189, 77, 32);
+    text-align: center;
 }
 
 img {
     height: 500px;
     width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h3 {
+    color: rgb(143, 74, 74)
+}
+
+button{
+    background-color: #1d4adf69;
+    padding: 10px;
 }
