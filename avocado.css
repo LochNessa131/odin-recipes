@@ -1,11 +1,12 @@
 /* Avocado.css */
 
 body{
+    font-family: 'Times New Roman', Times, serif;
     background-color: #e3b261;
 }
 
 h1 {
-    color: green;
+    color: rgb(24, 150, 24);
     text-align: center;
 }
 
