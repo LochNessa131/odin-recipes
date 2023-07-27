@@ -2,11 +2,27 @@
 
 body {
     font-family: 'Times New Roman', Times, serif;
+    background-color: #e3b261;
 }
 
-h1 { color: rgb(196, 165, 120);}
+h1 { 
+    color:#8b4c4c;
+    text-align: center;
+}
 
 img {
     height: 500px;
     width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h3 {
+    color: #31864a;
+}
+
+button{
+    background-color: #1d4adf69;
+    padding: 10px;
 }
