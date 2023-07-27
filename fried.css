@@ -1,18 +1,28 @@
-/* style.css */
+/* fried.css */
 
 body {
     font-family: 'Times New Roman', Times, serif;
+    background-color: #e3b261;
 }
 
 img {
     height: 500px;
     width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 h1 {
-    color: rgb(194, 82, 38);
+    color: rgb(83, 52, 38);
+    text-align: center;
 }
 
 h3 {
-    color: rgb(47, 155, 26);
+    color: rgb(53, 107, 44);
+}
+
+button{
+    background-color: #1d4adf69;
+    padding: 10px;
 }
